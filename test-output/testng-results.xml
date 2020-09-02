@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31278" started-at="2020-09-02T10:51:57Z" finished-at="2020-09-02T10:52:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31278" started-at="2020-09-02T10:51:57Z" finished-at="2020-09-02T10:52:29Z">
+      <class name="feedtest.page1test">
+        <test-method status="PASS" signature="browserOntest()[pri:0, instance:feedtest.page1test@27efef64]" name="browserOntest" is-config="true" duration-ms="7522" started-at="2020-09-02T10:51:57Z" finished-at="2020-09-02T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOntest -->
+        <test-method status="PASS" signature="page1test()[pri:0, instance:feedtest.page1test@27efef64]" name="page1test" duration-ms="23046" started-at="2020-09-02T10:52:05Z" finished-at="2020-09-02T10:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page1test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:feedtest.page1test@27efef64]" name="tearDown" is-config="true" duration-ms="687" started-at="2020-09-02T10:52:28Z" finished-at="2020-09-02T10:52:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- feedtest.page1test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
